@@ -1,7 +1,7 @@
 {
   "name": "async-clustering",
   "description": "Async.js plugin with new specific functions as clusterQueue and clusterBatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Donovan Harscoet (https://github.com/harscoet)",
   "repository": {
     "type": "git",
