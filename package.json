@@ -1,0 +1,30 @@
+{
+  "name": "async-clustering",
+  "description": "Async.js plugin with new specific functions as clusterQueue and clusterBatch",
+  "version": "1.0.0",
+  "author": "Donovan Harscoet (https://github.com/harscoet)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:harscoet/async-clustering.git"
+  },
+  "scripts": {
+    "test": "mocha --require should"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "async": "*",
+    "strip-comments": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/harscoet/async-clustering/issues"
+  },
+  "homepage": "https://github.com/harscoet/async-clustering",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC"
+}

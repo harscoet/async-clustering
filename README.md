@@ -1,0 +1,1 @@
+# Async.js plugin with new specific functions as clusterQueue and clusterBatch
